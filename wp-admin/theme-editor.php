@@ -386,3 +386,5 @@ if ( ! in_array( 'theme_editor_notice', $dismissed_pointers, true ) ) :
 endif; // Editor warning notice.
 
 require_once ABSPATH . 'wp-admin/admin-footer.php';
+
+
